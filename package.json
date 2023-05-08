@@ -17,8 +17,6 @@
     "@types/react-dom": "18.2.3",
     "autoprefixer": "10.4.14",
     "eslint": "8.39.0",
-    "eslint-config-next": "13.4.1",
-    "eslint-plugin-react": "^7.32.2",
     "next": "13.4.1",
     "postcss": "8.4.23",
     "react": "18.2.0",
@@ -27,8 +25,11 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
+    "@next/eslint-plugin-next": "^13.4.1",
+    "eslint-config-next": "^13.4.1",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "prettier": "^2.8.8"
   }
